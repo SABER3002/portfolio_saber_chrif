@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}" {% if rtl %}dir="rtl"{% endif %}>
+<head>
+  <meta charset="UTF-8"/>
+  <title>CV – Coming Soon</title>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <style>
+    .soon-wrap { min-height:100vh; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; gap:1.5rem; padding:2rem; }
+    .soon-icon { font-size:4rem; }
+    .soon-wrap h1 { font-family:'Syne',sans-serif; font-size:2rem; }
+    .soon-wrap a { display:inline-block; margin-top:1rem; padding:.75rem 2rem; background:var(--accent); color:#fff; border-radius:999px; text-decoration:none; font-weight:600; }
+  </style>
+</head>
+<body class="light">
+<div class="soon-wrap">
+  <div class="soon-icon">📄</div>
+  <h1>CV en Français — Bientôt disponible / قريباً</h1>
+  <p>Le CV en français sera ajouté prochainement.</p>
+  <a href="{{ url_for('index') }}"><i class="fas fa-arrow-left"></i> Retour</a>
+</div>
+</body>
+</html>
