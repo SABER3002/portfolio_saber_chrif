@@ -182,7 +182,7 @@ EXPERIENCE = {
             "year": "2025",
             "type": "Enterprise",
             "points": [
-                "Designed and implemented a comprehensive Stock Management System (.exe) using ASP.NET Core",
+                "Designed and implemented a comprehensive Stock Management System using ASP.NET Core",
                 "Developed backend logic and database schemas for real-time inventory tracking",
                 "Improved operational efficiency by automating manual reporting processes",
                 "Delivered an enterprise-grade information system for one of Tunisia's largest telecoms",
@@ -208,7 +208,7 @@ EXPERIENCE = {
             "year": "2025",
             "type": "Entreprise",
             "points": [
-                "Conception et implémentation d'un système de gestion de stock complet (.exe) avec ASP.NET Core",
+                "Conception et implémentation d'un système de gestion de stock complet avec ASP.NET Core",
                 "Développement de la logique backend et des schémas de base de données pour le suivi en temps réel",
                 "Amélioration de l'efficacité opérationnelle par l'automatisation des rapports manuels",
                 "Livraison d'un système d'information de niveau entreprise pour l'un des plus grands opérateurs en Tunisie",
@@ -257,21 +257,21 @@ EXPERIENCE = {
 
 SKILLS = {
     "en": {
-        "Programming Languages": ["Python", "Java", "C++", "C#", "ASP.NET Core"],
+        "Programming Languages": ["Python", "Java", "C++", "C#"],
         "Business Intelligence": ["Data Analysis", "SQL", "Data Visualization", "ETL"],
         "Web Development": ["Flask", "HTML/CSS", "JavaScript", "REST APIs"],
         "Design & Tools": ["Graphic Design", "Microsoft Office Suite", "Git"],
         "Soft Skills": ["Team Leadership", "Problem-Solving", "Adaptability", "Client Communication"],
     },
     "fr": {
-        "Langages de Programmation": ["Python", "Java", "C++", "C#", "ASP.NET Core"],
+        "Langages de Programmation": ["Python", "Java", "C++", "C#"],
         "Business Intelligence": ["Analyse de données", "SQL", "Visualisation", "ETL"],
         "Développement Web": ["Flask", "HTML/CSS", "JavaScript", "API REST"],
         "Design & Outils": ["Design Graphique", "Microsoft Office Suite", "Git"],
         "Soft Skills": ["Leadership", "Résolution de problèmes", "Adaptabilité", "Communication client"],
     },
     "ar": {
-        "لغات البرمجة": ["Python", "Java", "C++", "C#", "ASP.NET Core"],
+        "لغات البرمجة": ["Python", "Java", "C++", "C#"],
         "ذكاء الأعمال": ["تحليل البيانات", "SQL", "تصور البيانات", "ETL"],
         "تطوير الويب": ["Flask", "HTML/CSS", "JavaScript", "REST APIs"],
         "التصميم والأدوات": ["التصميم الجرافيكي", "Microsoft Office Suite", "Git"],
