@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "A multilingual personal portfolio website built with Python/Flask.   Supports **English**, **French**, and **Arabic** (RTL) with dark/light mode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SABER3002/portfolio_saber_chrif.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SABER3002/portfolio_saber_chrif/issues"
+  },
+  "homepage": "https://github.com/SABER3002/portfolio_saber_chrif#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
